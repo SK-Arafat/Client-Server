@@ -1,4 +1,4 @@
-/* Code for example client program that uses TCP: IPv4 */
+
 #ifndef unix
 #include <winsock2.h>
 #include <ws2tcpip.h>
